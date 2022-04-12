@@ -1,0 +1,7 @@
+name: NMSTest
+version: '${version}'
+main: jeeper.nmstest.Main
+api-version: 1.18
+commands:
+  spawnnpc:
+    description: Spawn a new NPC
